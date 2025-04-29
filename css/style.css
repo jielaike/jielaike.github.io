@@ -104,6 +104,7 @@ body {
     font-size: 12px;
     color: #888888;
     margin-bottom: 5px;
+    line-height:140%;
 }
 .news-item a {
     color: #FF0000;
@@ -154,3 +155,18 @@ body {
     clear:both;
 }
 
+.bestvps {
+    border-top: 1px dotted #CCCCCC;
+    margin-top:30px;
+    padding-top:20px;
+}
+.bestvps p {
+    font-size: 12px;
+    color: #000000;
+    margin-bottom: 5px;
+    line-height:140%;
+}
+.bestvps a {
+    color: #0066D1;
+    text-decoration: underline;    
+} 
